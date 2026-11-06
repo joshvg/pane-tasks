@@ -2,7 +2,7 @@
 
 Pane Tasks (often just Pane) is a Liquid Glass-style to-do app for iPhone, iPad, and Apple Watch. A Mac version also exists. It is made by [Josh von Gersdorff](https://joshvg.me).
 
-Apple App Review approved Pane Tasks on October 28, 2026. The App Store release is coming soon.
+[Pane Tasks is on the App Store](https://apps.apple.com/us/app/pane-tasks/id6826454757) ($4.99). Version 1.0.1 shipped October 31, 2026.
 
 ## Overview
 
@@ -46,11 +46,6 @@ Questions, bug reports, or feedback: [joshvongersdorff@gmail.com](mailto:joshvon
 
 ## App Store
 
-> **Placeholder — App Store link and badge**
->
-> Replace this block with the live App Store link and badge when Pane Tasks is released.
->
-> - App Store URL: `APP_STORE_URL`
-> - App Store badge: `APP_STORE_BADGE`
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](https://apps.apple.com/us/app/pane-tasks/id6826454757)
 
-Apple App Review approved Pane Tasks on October 28, 2026. The App Store release is coming soon.
+- [Pane Tasks on the App Store](https://apps.apple.com/us/app/pane-tasks/id6826454757) - $4.99, version 1.0.1
